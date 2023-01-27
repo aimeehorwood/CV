@@ -1,5 +1,11 @@
 ## Aimee Horwood 👩‍💻💡
 
+<div align="center">
+  
+[Projects](#projects) | [Skills](#skills) | [Tech Skills](#tech-skills) | [Education](#education) | [Experience](#experience) | [Hobbies & Interests](#hobbies-and-interests) | [LinkedIn](https://www.linkedin.com/in/aimeehorwood/) |
+  
+ </div>
+
 👉 Hi there, I’m Aimee :wave:,  I’m an ambitious and proactive junior software engineer and soon-to-be graduate of Makers Academy. 
 
 👉 I'm the sort of person who looks up the ending of films before they're finished. I'm unapologetically curious and like asking the big questions - *I don't just need to know why and how it works, but also how it can be better?* 
@@ -72,7 +78,7 @@
 
 
 
-## Work Experience
+## Experience
 
 **Burson Cohn and Wolfe** (2021 to 2022)  
 _Senior Account Manager_
@@ -111,7 +117,7 @@ _Public Affairs Advisor_
 - Selected to spend a year of my studies in Sydney at the University of New South Wales 
 
 
-## Hobbies
+## Hobbies and Interests
 
 - Ruining films by looking up the ending 📺
 - Learning about the world and tech from Podcasts, documentaries and YouTube 🎧
