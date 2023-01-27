@@ -36,6 +36,14 @@
 </div>
 </p>
 
+#### Makers Academy (October 2022 to February 2023)
+
+Full-time software development course focusing on:
+
+- Object-Oriented Programming, Test Driven Development, Model View Controller design patterns, SOLID principles
+- Agile principles, pair programming, stand-ups, retros, and sprint planning
+- Web frameworks, version control, and CI/CD to create full stack web apps
+
 
 ## Projects
 
@@ -44,6 +52,7 @@
 | **Final project**            | A webapp to do x. | React, Jest, etc. |
 | **Makers BnB** | A webapp to add, request and manage accommodation bookings | Ruby, PostSQL,Sinatra, Twillo             |
 | **Acebook** | A facebook clone built using the MERN stack | React, Express, MongoDB, Node, Cypress            |
+
 
 
 ## Skills
@@ -77,7 +86,6 @@
 - I also added value to the culture of the company by getting involved in charity projects and organising a charity boat race for my colleagues on Hammersmith river which raised £13,000 for two local charities.  Recently my proactive approach can be seen by choosing to pursuing a career change to software engineering.
 
 
-
 ## Experience
 
 **Burson Cohn and Wolfe** (2021 to 2022)  
@@ -105,16 +113,21 @@ _Public Affairs Advisor_
 ## Education
 
 
-#### Royal Masonic School for Girls
-
-- Politics(A)
-- Economics (B)
-- Philosophy & Ethics (A)
+#### Code First Girls ( Part-time June 2022 - August 2022)
+- Introduction to Web Development
+- HTML, CSS, JavaScript,
+- Final Project: Listen-Out - a short group project developing a platform to review concert, gigs, and festivals.
 
 #### University of Birmingham (2012 to 2016)
 
 - 2.1  BA Political Science 
 - Selected to spend a year of my studies in Sydney at the University of New South Wales 
+
+#### Royal Masonic School for Girls
+
+- Politics(A)
+- Economics (B)
+- Philosophy & Ethics (A)
 
 
 ## Hobbies and Interests
