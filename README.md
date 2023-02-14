@@ -103,8 +103,6 @@ _Public Affairs Advisor_
 
 - Working for the biggest gambling company in the world, I witnessed first hand how cutting edge technology can prevent harm and provide world-class entertainment.
 
-- I was promoted first from my graduate cohort to a permanent position at the company.
-
 - Throughout my time at Flutter, I fostered an ability to explain highly technical concepts in a way that non-technical stakeholders can understand.
 
 - I had the freedom to develop and run campaigns that I am incredibly passionate about, such as participation and representation of women's football and funding of grassroots sports.
