@@ -135,4 +135,4 @@ _Public Affairs Advisor_
 - Learning about the world and tech from Podcasts, documentaries and YouTube 🎧
 - I love trying new food and have an excellent repertoire of restaurants 🍣🥡🍜🍝
 - Exercising, and catching up with friends for long-walks around London 🚶‍♀️
-- When I’m not test-driving my code and dancing around the kitchen to passing tests, I am planning my wedding 💒
+
