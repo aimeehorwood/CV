@@ -47,10 +47,10 @@ Full-time software development course focusing on:
 
 ## Projects
 
-| Name                         | Description       | Tech/tools        |
+| Name                         | Description       | Tech and Tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Makers BnB** | A webapp to add, request and manage accommodation bookings | Ruby, PostSQL,Sinatra, Twillo             |
+| **Seedlings**            | A website for plant owners to manage their plants, set recurring watering reminders and identify plants through an AI API | React, Express, MongoDB, Node Jest, SendGrid, Node-Cron  |
+| **Bank** | A simple bank simulator to track deposits,withdrawal and account statement printing | Ruby, IRB, RSpec, Rubocop            |
 | **Acebook** | A facebook clone built using the MERN stack | React, Express, MongoDB, Node, Cypress            |
 
 
