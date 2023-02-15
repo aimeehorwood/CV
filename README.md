@@ -5,14 +5,14 @@
 [Projects](#projects) | [Skills](#skills) | [Tech Skills](#tech-skills) | [Education](#education) | [Experience](#experience) | [Hobbies & Interests](#hobbies-and-interests) | [LinkedIn](https://www.linkedin.com/in/aimeehorwood/) |
   
  </div>
-
+ 
 👉 Hi there, I’m Aimee :wave:,  I’m an ambitious and proactive junior software engineer and graduate of Makers Academy. 
 
 👉 I'm the sort of person who looks up the ending of a film before it's finished. I'm unapologetically curious and like asking the big questions - *I don't just need to know why and how it works, but also how it can be better?* 
 
-👉 I used to work as a political and communications strategist, now I am using my problem-solving, team-work, communication, and strategic thinking skills to build full stack applications in JavaScript and Ruby.
+👉 I used to work as a political and communications strategist consulting some of the UK's biggest technology and consumer businesses, now I am using my problem-solving, team-work, communication, and strategic thinking skills to break down problems, fix bugs and deliver full stack applications using JavaScript, React, Node.js, Ruby and Sinatra.
 
-👉 I am ready to utilise OOP, TDD, paired programming, and agile methodologies to a role where I can feed my curiosity and write high quality code to build programs that truly matter.
+👉 I am ready to utilise OOP, TDD, paired programming, and agile methodologies to a role where I can feed my curiosity and write high quality code to build programs that truly matter
 
 ## Tech Skills 
 
@@ -52,6 +52,7 @@ Full-time software development course focusing on:
 | **Seedlings**            | A website for plant owners to manage their plants, set recurring watering reminders and identify plants through an AI API | React, Express, MongoDB, Node Jest, SendGrid, Node-Cron  |
 | **Bank** | A simple bank simulator to track deposits,withdrawal and account statement printing | Ruby, IRB, RSpec, Rubocop            |
 | **Acebook** | A facebook clone built using the MERN stack | React, Express, MongoDB, Node, Cypress            |
+| **MakersBnB** | A tool to add, request and manage accommodation bookings | React, Express, MongoDB, Node, Cypress            |
 
 
 
