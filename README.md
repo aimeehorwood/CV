@@ -2,7 +2,7 @@
 
 <div align="center">
   
-[Projects](#projects) | [Skills](#skills) | [Tech Skills](#tech-skills) | [Education](#education) | [Experience](#experience) | [Hobbies & Interests](#hobbies-and-interests) | [LinkedIn](https://www.linkedin.com/in/aimeehorwood/) |
+[Projects](#projects) | [Skills](#skills) | [Tech Skills](#tech-skills) | [Education](#education) | [Experience](#experience) | [Hobbies & Interests](#hobbies-and-interests) | [LinkedIn](https://www.linkedin.com/in/aimeehorwood/) 
   
  </div>
  
@@ -49,10 +49,10 @@ Full-time software development course focusing on:
 
 | Name                         | Description       | Tech and Tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **Seedlings**            | A website for plant owners to manage their plants, set recurring watering reminders and identify plants through an AI API | React, Express, MongoDB, Node Jest, SendGrid, Node-Cron  |
-| **Bank** | A simple bank simulator to track deposits,withdrawal and account statement printing | Ruby, IRB, RSpec, Rubocop            |
-| **Acebook** | A facebook clone built using the MERN stack | React, Express, MongoDB, Node, Cypress            |
-| **MakersBnB** | A tool to add, request and manage accommodation bookings | React, Express, MongoDB, Node, Cypress            |
+|[Seedlings](https://github.com/aimeehorwood/seedlings)| A website for plant owners to manage their plants, set recurring watering reminders and identify plants through an AI API | React, Express, MongoDB, Node Jest, SendGrid, Node-Cron  |
+|[Bank](https://github.com/aimeehorwood/bank_tech_test)| A simple bank simulator to track deposits,withdrawal and account statement printing | Ruby, IRB, RSpec, Rubocop            |
+|[Acebook](https://github.com/aimeehorwood/acebook-Charisma)| A facebook clone built using the MERN stack | React, Express, MongoDB, Node, Cypress            |
+|[MakersBnB](https://github.com/aimeehorwood/makers-bnb)|A tool to add, request and manage accommodation bookings | Ruby, RSpec, Sinatra, Twillio, PostgreSQL
 
 
 
