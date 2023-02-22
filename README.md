@@ -96,7 +96,7 @@ _Senior Account Manager_
 
 - I developed strong relationships with my clients and was responsible for project management, scoping work, understanding their businesses and resourcing the team to ensure that deadlines were met and work was delivered to a high standard. 
 
-- Throughout this time, I was a line manager and heavily involved in new businesses pitches and presentations for prospective clients.
+- Throughout this time, I was a line manager and heavily involved in new business pitches and presentations for prospective clients.
 
 
 **Flutter Entertainment** (2016 to 2021) _owner of Betfair, PaddyPower, SkyBetting & Gaming and PokerStars_
